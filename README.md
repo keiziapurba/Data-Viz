@@ -30,11 +30,13 @@ Adapun **visual eksploratif haruslah menonjolkan kekuatan analisis, hubungan seb
 
 
 ## Sebelum menarasikan data yang harus kita perhatikan:
-  > **Apa**. Tanyakan pada dirimu, pesan/hal apa yang paling ingin kamu sampaikan kepada audiens. Misalnya, kamu ingin audiens tahu bahwa performa perusahaan terus menurun. Atau, kinerja perusahaan sedang bagus, tetapi sebetulnya masih perlu ada perbaikan di beberapa sektor. Jika pesan utama sudah diketahui, periksalah apakah data dan grafik yang kamu miliki sudah menunjukkan dengan jelas pesan tersebut.
-  > **Untuk apa** orang lain perlu mengetahui hal yang kamu sampaikan tadi. Di sinilah kamu tunjukkan hasil analisismu terhadap data yang kamu miliki. Hasil analisismu harus bisa membuktikan bahwa pesan yang kamu sampaikan tadi penting karena ada efek lanjutan yang tak kalah penting dari pesan tersebut.
-  > **Bagaimana** caranya agar masalah yang kamu sampaikan tadi bisa teratasi. Di sini kamu bisa menyampaikan sejumlah alternatif solusi atau action plan yang diperlukan, tentunya berdasarkan analisis data yang menunjukkan bahwa rencana itulah yang paling baik untuk ditindaklanjuti.
+  - **Apa**. Tanyakan pada dirimu, pesan/hal apa yang paling ingin kamu sampaikan kepada audiens. Misalnya, kamu ingin audiens tahu bahwa performa perusahaan terus menurun. Atau, kinerja perusahaan sedang bagus, tetapi sebetulnya masih perlu ada perbaikan di beberapa sektor. Jika pesan utama sudah diketahui, periksalah apakah data dan grafik yang kamu miliki sudah menunjukkan dengan jelas pesan tersebut.
+  - **Untuk apa** orang lain perlu mengetahui hal yang kamu sampaikan tadi. Di sinilah kamu tunjukkan hasil analisismu terhadap data yang kamu miliki. Hasil analisismu harus bisa membuktikan bahwa pesan yang kamu sampaikan tadi penting karena ada efek lanjutan yang tak kalah penting dari pesan tersebut.
+  - **Bagaimana** caranya agar masalah yang kamu sampaikan tadi bisa teratasi. Di sini kamu bisa menyampaikan sejumlah alternatif solusi atau action plan yang diperlukan, tentunya berdasarkan analisis data yang menunjukkan bahwa rencana itulah yang paling baik untuk ditindaklanjuti.
 
 <img width="565" alt="Screen Shot 2022-08-25 at 01 10 22" src="https://user-images.githubusercontent.com/91368463/186492065-da5ae5fd-0f68-48d3-b739-cdd5085f431b.png">
+
+
 
 
 
