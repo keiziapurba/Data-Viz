@@ -38,6 +38,10 @@ Adapun **visual eksploratif haruslah menonjolkan kekuatan analisis, hubungan seb
 
 
 
+
+
+## Jenis Grafik dan Kegunaannya
+
 | Jenis Grafik | Bentuk | Keterangan |
 |----|----|----|
 |Teks dan angka| <img width="294" alt="Screen Shot 2022-08-25 at 01 21 16" src="https://user-images.githubusercontent.com/91368463/186494157-51b7b236-4b35-43af-9f54-cff1a52df7a4.png"> | Data tidak harus ditampilkan dalam bentuk grafik. Dapat menggunakan teks dan angka saja, dengan catatan hanya 1-2 data yang ingin ditampilkan. Beri penebalan atau warna berbeda pada angka atau teks yang ingin ditonjolkan agar perhatian pembaca terarah pada bagian tersebut.|
