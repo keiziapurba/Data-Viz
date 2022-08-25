@@ -1,5 +1,8 @@
 # Data Vizualization Fundamental (DQLab x Kominfo Data Analyst Professional Academy)
 
+## Mengenal visualisasi data
+Visualisasi data dapat didefinisikan sebagai cara merepresentasikan data melalui komponen visual, seperti posisi, komposisi, panjang, luas, dan warna. Visualisasi data juga mencakup cara berkomunikasi secara efektif kepada audiens melalui bahasa gambar. penyajian data dengan visualisasi yang tepat bisa dengan cepat mendapat perhatian audiens dan membuatnya paham tentang apa yang disampaikan. Itulah tujuan utama visualisasi data. Bukan sekadar membuat tampilan data yang enak dilihat, tetapi juga harus bisa membuat data lebih mudah dipahami, jelas, dan menarik. Yang tidak kalah penting, harus dapat meyakinkan audiens sesuai kesimpulan dan narasi yang dibangun analis.
+
 
 ## Tujuan visualisasi data sebagai berikut:
 - **Memecahkan masalah, bukan sekadar tampil cantik**. Ingatlah bahwa informasi visual lebih bukan mengutamakan hasil akhir berupa infografik atau presentasi serba indah. Sasarannya adalah memproses dan mengorganisasi fakta dan data, menemukan pola, hingga menghasilkan solusi. Desain visual membantu mengomunikasikan penyelesaian masalah itu agar mudah dipahami.
@@ -60,6 +63,21 @@ Adapun **visual eksploratif haruslah menonjolkan kekuatan analisis, hubungan seb
 
 
 
+## Panduan ringkas memilih grafik
+
+| #### **Tujuan** | #### **Jenis Grafik yang Cocok** |
+|----|----|
+| **Hanya menonjolkan satu nilai variabel** | <img width="564" alt="Screen Shot 2022-08-26 at 00 50 16" src="https://user-images.githubusercontent.com/91368463/186734894-5454a551-7523-4f19-90d5-82d52a559442.png"> |
+| **Menunjukkan peringkat/ranking** | <img width="532" alt="Screen Shot 2022-08-26 at 00 51 31" src="https://user-images.githubusercontent.com/91368463/186735142-965fdeb7-974b-4220-ae8a-9621e2f1df6c.png"> | 
+| **Menunjukkan 2 variabel atau lebih** | <img width="646" alt="Screen Shot 2022-08-26 at 00 52 59" src="https://user-images.githubusercontent.com/91368463/186735372-d9c1cb43-44ff-45c1-a086-5cb98e6ce8d6.png"> |
+| **Membandingkan dengan nilai tertentu (benchmark)** | <img width="308" alt="Screen Shot 2022-08-26 at 00 53 46" src="https://user-images.githubusercontent.com/91368463/186735493-79d8071e-e556-40c9-8be3-034bb70dc9f8.png"> |
+| **Perbandingan (komparasi) antarkategori** | <img width="526" alt="Screen Shot 2022-08-26 at 00 54 37" src="https://user-images.githubusercontent.com/91368463/186735676-d7a6e64c-82d2-44c3-9ab0-7b3a99b9e372.png"> |
+| **Menampilkan hasil survei** | <img width="742" alt="Screen Shot 2022-08-26 at 00 55 27" src="https://user-images.githubusercontent.com/91368463/186735865-156748a7-e526-456f-919f-3796580fb390.png"> |
+| **Menunjukkan proporsi bagian dari jumlah total** | <img width="623" alt="Screen Shot 2022-08-26 at 00 56 24" src="https://user-images.githubusercontent.com/91368463/186736023-8905863b-dac9-4681-915d-a4adad7b99b4.png"> |
+| **Menunjukkan perubahan nilai pada 1 variabel** | <img width="207" alt="Screen Shot 2022-08-26 at 00 57 22" src="https://user-images.githubusercontent.com/91368463/186736188-9654c57d-c102-4faf-bac9-c5690e89c932.png"> |
+| **Menampilkan simpangan (deviasi) data** | <img width="421" alt="Screen Shot 2022-08-26 at 00 58 09" src="https://user-images.githubusercontent.com/91368463/186736348-b2aef79f-ab91-4613-ac2a-08132dbfea54.png"> |
+| **Menggunakan teks sebagai data utama** | <img width="319" alt="Screen Shot 2022-08-26 at 00 59 02" src="https://user-images.githubusercontent.com/91368463/186736478-23261357-6f5f-4637-ba33-5dcd2eb86175.png"> |
+| **Menampilkan perubahan nilai dari waktu ke waktu (tren)** | <img width="417" alt="Screen Shot 2022-08-26 at 00 59 58" src="https://user-images.githubusercontent.com/91368463/186736694-04297fce-285b-4d27-9e02-33b5f6222303.png"> |
 
 
 
