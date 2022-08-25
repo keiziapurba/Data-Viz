@@ -65,7 +65,7 @@ Adapun **visual eksploratif haruslah menonjolkan kekuatan analisis, hubungan seb
 
 ## Panduan ringkas memilih grafik
 
-####| **Tujuan** | **Jenis Grafik yang Cocok** |
+| **Tujuan** | **Jenis Grafik yang Cocok** |
 |----|----|
 | **Hanya menonjolkan satu nilai variabel** | <img width="564" alt="Screen Shot 2022-08-26 at 00 50 16" src="https://user-images.githubusercontent.com/91368463/186734894-5454a551-7523-4f19-90d5-82d52a559442.png"> |
 | **Menunjukkan peringkat/ranking** | <img width="532" alt="Screen Shot 2022-08-26 at 00 51 31" src="https://user-images.githubusercontent.com/91368463/186735142-965fdeb7-974b-4220-ae8a-9621e2f1df6c.png"> | 
