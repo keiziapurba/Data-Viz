@@ -82,7 +82,14 @@ Adapun **visual eksploratif haruslah menonjolkan kekuatan analisis, hubungan seb
 
 
 
-
+## Langkah-langkah untuk  menyederhanakan tampilan grafik agar desainnya lebih simpel dan mudah dipahami:
+1. **Memilih jenis grafik garis (line chart)**. Jenis grafik ini cocok untuk menampilkan perubahan nilai variabel dari waktu ke waktu dengan elemen yang lebih sederhana dibanding grafik batang horizontal.
+2. **Menghilangkan garis tepi grafik**. Menghilangkan garis tepi akan memberi kesan ruang grafik yang luas.
+3. **Menghilangkan grid line/area**. Jika yang ditonjolkan adalah pola garis naik-turun grafik, grid line dapat disamarkan atau dihilangkan sama sekali. Jika tidak, area grafik akan penuh oleh garis saling silang.
+4. **Menghapus label data dan marker**. Terlalu banyak label data justru akan membuat tampilan grafik menjadi penuh dan terkesan berantakan. Tentu saja boleh menghilangkan seluruhnya atau tampilkan label data pada titik-titik tertentu saja. Hanya saja jangan lupa hindari penggunaan warna pekat pada label data, kecuali bila nilai data itu menjadi sorotan utama.
+5. **Menyederhanakan keterangan sumbu X dan Y**. Jika sumbu XY memuat angka ribuan atau lebih, ringkaslah angka itu dengan menyederhanakan nilai angka pada setiap sumbu. Jangan lupa memunculkan satuan angka pada sumbu tersebut.
+6. **Mengatur legenda, judul, subjudul, keterangan**. Diperlukan permainan tipografi dan penempatan teks yang tepat. Judul haruslah berukuran paling besar dan warna pekat. Ukuran huruf dan warna untuk elemen lain diatur lebih kecil dan lebih tipis. Lekatkan legenda dengan elemen grafik (dalam hal ini garis-garis grafik) untuk memudahkan pembaca mencari keterangan atas grafik tersebut.
+7. **Mengganti warna, tebal garis**. Tidak ada patokan khusus mengenai jumlah warna dan ukuran garis. Namun, pastikan bahwa elemen yang paling menonjol diberi warna lebih pekat dari elemen lain.
 
 
 
