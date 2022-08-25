@@ -1,4 +1,4 @@
-# Data Vizualization Fundamental (DQLab x Kominfo Data Analyst Professional Academy)
+# Fundamental Data Visualization with Python (DQLab x Kominfo Data Analyst Professional Academy)
 
 ## Mengenal visualisasi data
 Visualisasi data dapat didefinisikan sebagai cara merepresentasikan data melalui komponen visual, seperti posisi, komposisi, panjang, luas, dan warna. Visualisasi data juga mencakup cara berkomunikasi secara efektif kepada audiens melalui bahasa gambar. penyajian data dengan visualisasi yang tepat bisa dengan cepat mendapat perhatian audiens dan membuatnya paham tentang apa yang disampaikan. Itulah tujuan utama visualisasi data. Bukan sekadar membuat tampilan data yang enak dilihat, tetapi juga harus bisa membuat data lebih mudah dipahami, jelas, dan menarik. Yang tidak kalah penting, harus dapat meyakinkan audiens sesuai kesimpulan dan narasi yang dibangun analis.
