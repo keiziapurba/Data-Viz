@@ -135,19 +135,19 @@ Tapi biasanya, parameter-parameter ini tidak digunakan karena grafik di file gam
 Secara garis besar, ada empat tujuan visualisasi yang disampaikan oleh Andrew Abela sesuai gambar berikut:
 <img width="716" alt="Screen Shot 2022-08-27 at 23 40 12" src="https://user-images.githubusercontent.com/91368463/187039664-76220193-92c5-47cf-9ff6-031a03c155f0.png">
 
-1. **Perbandingan/Komparasi**
+**1. Perbandingan/Komparasi**
 
 Jika ingin membandingkan suatu sekumpulan nilai dengan nilai lainnya, ingin melihat mana yang lebih besar, mana yang lebih tinggi, mana yang naik, dsb. Untuk data yang terkait dengan waktu, visualisasi yang digunakan biasanya berupa line-chart. Sedangkan, jika yang dibandingkan adalah kategorikal, maka lebih cocok menggunakan bar-chart.
 
-2. **Distribusi**
+**2. Distribusi**
 
 Bila ingin melihat distribusi/persebaran data di suatu variabel. Visualisasi yang lazim digunakan adalah histogram. Bisa melihat apakah datanya banyak terkumpul di nilai-nilai kecil, berat di kanan, atau simetris, ataupun berdistribusi normal. Untuk melihat distribusi di dua variabel, scatterplot juga bisa digunakan.
 
-3. **Komposisi**
+**3. Komposisi**
 
 Digunakan untuk melihat komposisi dari suatu variabel, jika di-breakdown terhadap suatu dimensi data. Visualisasi yang biasa digunakan adalah stacked bar-chart untuk data kategorikal, atau stacked line-chart untuk data terkait waktu.
 
-4. **Keterhubungan/Relasi**
+**4. Keterhubungan/Relasi**
 
 Ketika ingin melihat keterhubungan antara suatu variabel dengan variabel lain. Misalnya ingin cek, jika variabel A semakin tinggi, apakah variabel B juga semakin tinggi, atau justru lebih rendah, atau tidak ada keterhubungannya. Visualisasi yang biasa digunakan untuk tujuan ini adalah scatter-plot.
 
