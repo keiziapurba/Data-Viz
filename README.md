@@ -119,13 +119,18 @@ dengan output-nya menunjukkan ke dalam tipe file apa saja dapat disimpan:
 <img width="411" alt="Screen Shot 2022-08-27 at 23 18 46" src="https://user-images.githubusercontent.com/91368463/187038844-8f21c878-0405-48b3-a0c9-209ad61424d3.png">
 
 
+Ada berbagai parameter yang bisa diatur saat menyimpan gambar, antara lain:
+- **dpi**: Resolusi gambar (dots per inch). 
+- **quality**: Kualitas gambar (hanya berlaku jika formatnya jpg atau jpeg), bisa diisi nilai 1 (paling buruk) hingga 95 (paling bagus).
+- **facecolor**: Memberikan warna bagian depan figure, di luar area plot 
+- **edgecolor**: Memberikan warna pinggiran gambar
+- **transparent**: Jika nilainya True, maka gambarnya jadi transparan (jika file-nya png)
+
+
+Tapi biasanya, parameter-parameter ini tidak digunakan karena grafik di file gambar bisa jadi berbeda dengan yang muncul saat menjalankan code di python.
 
 
 
 
 
 
-
-
-
-#### Feel free to check my vizzes on https://public.tableau.com/app/profile/keiziapurba
