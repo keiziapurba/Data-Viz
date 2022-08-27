@@ -115,6 +115,7 @@ Kita bisa menyimpannya ke berbagai tipe file, seringnya sih jpg, png, atau kadan
 plt.gcf().canvas.get_supported_filetypes()
 ```
 dengan output-nya menunjukkan ke dalam tipe file apa saja dapat disimpan:
+
 <img width="411" alt="Screen Shot 2022-08-27 at 23 18 46" src="https://user-images.githubusercontent.com/91368463/187038844-8f21c878-0405-48b3-a0c9-209ad61424d3.png">
 
 
