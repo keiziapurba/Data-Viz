@@ -107,4 +107,24 @@ Ada beberapa istilah dan komponen di sebuah plot, nanti akan mempermudah menging
 - Untuk isi grafiknya sendiri, bisa berupa **line** (untuk line plot), atau **marker** (untuk scatter plot), bisa juga bentuk lain seperti **bar** (untuk bar plot/histogram).
 - Aksesoris lain yang bisa ditambahkan, di antaranya **Grid** untuk mempermudah melihat tick yang sejajar, dan **Text** untuk memberikan informasi tambahan berbentuk teks di grafik.
 
+
+
+## Menyimpan Hasil Plot Menjadi File Image
+Kita bisa menyimpannya ke berbagai tipe file, seringnya sih jpg, png, atau kadang pdf juga bisa. Untuk mengetahui format lengkapnya, kita bisa menggunakan code berikut:
+```
+plt.gcf().canvas.get_supported_filetypes()
+```
+dengan output-nya menunjukkan ke dalam tipe file apa saja dapat disimpan:
+<img width="411" alt="Screen Shot 2022-08-27 at 23 18 46" src="https://user-images.githubusercontent.com/91368463/187038844-8f21c878-0405-48b3-a0c9-209ad61424d3.png">
+
+
+
+
+
+
+
+
+
+
+
 #### Feel free to check my vizzes on https://public.tableau.com/app/profile/keiziapurba
