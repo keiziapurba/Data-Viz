@@ -177,8 +177,12 @@ Anotasi itu mirip seperti teks, hanya saja ada suatu titik tertentu yang kita tu
 ```
 plt.annotate()
 ```
-
-
+Parameter pertama adalah isi teksnya, dan parameter kedua adalah koordinat dari point yang dianotasi. Selain itu ada beberapa parameter untuk anotasi yang bisa ditambahkan:
+- **xytext**: Koordinat dari teks. Jika tidak diisi,maka teks akan diletakkan di koordinat point yang dianotasi (parameter kedua)
+- **arrowprops**:Konfigurasi dari panah yang ditambahkan di anotasi, berupa dictionary. Beberapa hal yang bisa diset:
+      - **arrowstyle**: menentukan bentuk dari panah penunjuk. Isinya bisa berupa bentuk seperti '->', '-|>', '<->', '-[', dsb. Bisa juga berupa tulisan seperti 'fancy', 'simple', 'wedge', etc.
+      - **connectionstyle**: menentukan bentuk dari garis panahnya. Ada beberapa nilai yang bisa digunakan, misalnya 'arc' dan 'arc3' yang berupa garis lurus, 'angle' untuk garis berbelok siku, 'angle3' untuk garis berbelok lengkung, atau 'bar' untuk berbelok siku dua kali.
+      - **color**: menentukan warna dari panah
 
 
 
