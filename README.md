@@ -174,9 +174,9 @@ Beberapa parameter yang bisa ditambahkan untuk legend:
 
 ## Membuat Anotasi
 Anotasi itu mirip seperti teks, hanya saja ada suatu titik tertentu yang kita tunjuk untuk diberikan informasi tambahan. Selain itu, kita bisa menambahkan panah melalui anotasi. Untuk membuat annotate, gunakan function 
-'''
+```
 plt.annotate()
-'''
+```
 
 
 
