@@ -194,5 +194,11 @@ Parameter pertama adalah isi teksnya, dan parameter kedua adalah koordinat dari 
 
 
 
+
+
+
+
+
+
 DATASET:
 https://storage.googleapis.com/dqlab-dataset/retail_raw_reduced.csv
