@@ -188,8 +188,14 @@ Parameter pertama adalah isi teksnya, dan parameter kedua adalah koordinat dari 
      - **color**: menentukan warna dari panah
 
 
+### Membuat Pie Chart
 
-
+Beberapa parameter yang bisa dimodifikasi:
+- **labels**: array yang berisikan label/tulisan yang ditunjukkan untuk masing-masing bagian pie.
+- **colors**: array yang berisikan warna untuk masing-masing bagian pie.
+- **autopct**: format untuk nilai persentase yang ditampilkan, bisa berupa string atau function.
+- **shadow**: jika diisi True, maka ada bayangan untuk pie chart-nya. Default-nya adalah False.
+- **radius**: jari-jari dari pie-chart.
 
 
 
