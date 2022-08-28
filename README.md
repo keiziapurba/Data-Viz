@@ -203,8 +203,17 @@ Beberapa parameter yang bisa dimodifikasi:
 
 
 
+### Membuat Histogram
 
-
+Untuk membuat Histogram, gunakan function: 
+```
+plt.hist
+```
+dan memasukkan variabel yang ingin dicek. Parameter lain yang bisa ditambahkan yaitu:
+- **bins**: jumlah bin (kelompok nilai) yang diinginkan
+- **range**: nilai minimum dan maksimum yang ditampilkan
+- **orientation**: ‘horizontal’ atau ‘vertikal’
+- **color**: warna bar di histogram
 
 
 
