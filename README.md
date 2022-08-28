@@ -190,6 +190,10 @@ Parameter pertama adalah isi teksnya, dan parameter kedua adalah koordinat dari 
 
 ### Membuat Pie Chart
 
+Untuk membuat Pie Chart, masukkan data ke function: 
+```
+plt.pie() 
+```
 Beberapa parameter yang bisa dimodifikasi:
 - **labels**: array yang berisikan label/tulisan yang ditunjukkan untuk masing-masing bagian pie.
 - **colors**: array yang berisikan warna untuk masing-masing bagian pie.
