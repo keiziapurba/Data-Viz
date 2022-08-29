@@ -219,5 +219,4 @@ dan memasukkan variabel yang ingin dicek. Parameter lain yang bisa ditambahkan y
 
 
 
-DATASET:
-https://storage.googleapis.com/dqlab-dataset/retail_raw_reduced.csv
+
